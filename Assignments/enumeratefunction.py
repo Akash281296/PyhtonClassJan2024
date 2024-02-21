@@ -11,9 +11,9 @@ for index, key in enumerate(person_details.keys()):
     print(f"Key {index}: {key}")
 
 # Enumerate values
-print("\nEnumerating values:")
+print("\nEnumerating Index:")
 for index, value in enumerate(person_details.values()):
-    print(f"Value {index}: {value}")
+    print(f"Index {index}: {value}")
 
 # Enumerate items
 print("\nEnumerating items:")
